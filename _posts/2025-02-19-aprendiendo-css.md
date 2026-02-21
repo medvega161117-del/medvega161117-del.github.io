@@ -10,4 +10,4 @@ Con CSS se puede cambiar el color, el tamaño de letra, márgenes y la distribuc
 
 Aplicar CSS hace que el sitio se vea más claro, profesional y agradable.
 
-![Imagen de CSS]({{ site.baseurl }}/assets/images/css.jpg)
+![Imagen de CSS](/assets/images/css.jpg)

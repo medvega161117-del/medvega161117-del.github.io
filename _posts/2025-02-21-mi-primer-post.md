@@ -9,4 +9,4 @@ Estoy aprendiendo cómo funcionan los sitios web estáticos.
 
 Este proyecto me está ayudando a comprender mejor HTML y CSS.
 
-![Imagen del post 1]({{ site.baseurl }}/assets/images/post1.jpg)
+![Imagen del post 1](/assets/images/post1.jpg)
