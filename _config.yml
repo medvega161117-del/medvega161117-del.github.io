@@ -20,8 +20,8 @@
 
 title: Mi Blog de Programación
 description: Blog creado como práctica de HTML y CSS utilizando Jekyll
-baseurl: ""
-url: "https://marvlaz.github.io"
+url: "https://medvega161117-del.github.io"
+baseurl: "/marvlaz.github.io"
 
 # Build settings
 theme: minima
